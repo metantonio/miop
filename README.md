@@ -121,4 +121,9 @@ This creates `mascara_estenopeica_pantalla.svg` configured with:
 ---
 
 ## 🛡 License
-MIT License. Built for accessibility, optometry research, and vision empowerment.
+
+This project is licensed under a **Modified MIT License** with Attribution and Commercial Royalty terms:
+* **Attribution:** Anyone is free to use, modify, and distribute the code, provided that clear credit and attribution to **Antonio Martínez** is retained.
+* **Commercial Royalty:** Free for non-commercial, academic, research, and commercial usage up to **$100,000 USD** in gross revenue. Any commercial exploitation generating revenues above $100,000 USD is subject to a **2% royalty** payable to Antonio Martínez.
+
+See the [LICENSE](LICENSE) file for the full legal text.
